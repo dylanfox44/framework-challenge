@@ -12,6 +12,6 @@ label,input {
     flex-direction:column;
 }
 
-selection-box {
+.selection-box {
     width: 100px;
 }
