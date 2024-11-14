@@ -11,3 +11,7 @@ label,input {
     display:flex;
     flex-direction:column;
 }
+
+selection-box {
+    width: 100px;
+}
