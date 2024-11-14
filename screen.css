@@ -3,3 +3,11 @@ a.active {
     font-weight: bold;
 }
 
+body { 
+    font-family: Helvitca, sans sans-serif;
+}
+
+label,input {
+    display:flex;
+    flex-direction:column;
+}
