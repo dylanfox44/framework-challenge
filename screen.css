@@ -8,6 +8,10 @@ body {
     background-color: #F6C3FF
 }
 
+h2 {
+    text-align: center;
+}
+
 label,input {
     display:flex;
     flex-direction:column;
