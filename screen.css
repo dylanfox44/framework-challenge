@@ -13,6 +13,19 @@ label,input {
     flex-direction:column;
 }
 
+.order-form { 
+    flex-grow: 1;
+    flex-basis: 0;
+    background-color: #CA32E8;
+    border-radius:20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 /*
 .selection-box {
     width: 500px;
