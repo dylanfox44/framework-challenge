@@ -5,16 +5,22 @@ a.active {
 
 body { 
     font-family: Helvitca, sans sans-serif;
-    background-color: #F6C3FF
+    background-color: #F6C3FF;
+    margin: 0;
 }
 
 h1 {
     background-color: white;
-    margin: auto;
+    font-size: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin: 0;
 }
 
 h2 {
     text-align: center;
+    font-size: 30px;
 }
 
 label,input {
@@ -37,8 +43,6 @@ label,input {
     padding-right: 20px;
 }
 
-/*
 .selection-box {
-    width: 500px;
+    margin: 20px;
 }
-    */
