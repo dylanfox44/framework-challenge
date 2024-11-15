@@ -10,6 +10,11 @@ body {
     padding-bottom: 20px;
 }
 
+.logo { 
+    width: 100px;
+    height: 100px;
+}
+
 h1 {
     background-color: #F6C3FF;
     font-size: 40px;
