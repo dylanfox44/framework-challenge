@@ -6,7 +6,7 @@ a.active {
 body { 
     font-family: Helvitca, sans sans-serif;
     /*background-color: #F6C3FF;*/
-    background-image: image("images/kenya-city_purple-overlay.jpg");
+    background-image: url("images/kenya-city_purple-overlay.jpg");
     margin: 0;
     padding-bottom: 20px;
 }
